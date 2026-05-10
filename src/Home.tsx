@@ -1,5 +1,5 @@
 import Hero from "./components/home/Hero"
-import Body from "./components/home/body"
+import Body from "./components/home/Bodyy"
 
 export default function Home(){
     return(

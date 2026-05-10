@@ -33,7 +33,7 @@ export const movies = [
     background: top3bg,
     tags: ["Sci-Fi", "Adventure","16+", "2026"],
     description:
-      "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+      "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's preys.",
   },
   {
     image: top4,
