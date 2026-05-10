@@ -26,7 +26,7 @@ export const movies = [
     background: top2bg,
     tags: ["Thriller", "Crime", "Action", "Drama", "Trending"],
     description:
-      "Real estate mogul Ronke freely shares her wealth with people who take advantage of her — until a crisis forces her to re-examine her generosity.",
+      "Real estate mogul Ronke freely shares her wealth with people who take advantage of her, until a crisis forces her to re-examine her generosity.",
   },
   {
     image: top3,
