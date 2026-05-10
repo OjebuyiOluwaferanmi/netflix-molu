@@ -1,9 +1,13 @@
 import Hero from "./components/home/Hero"
+import Body from "./components/home/body"
 
 export default function Home(){
     return(
         <>
-            <Hero />
+            <div className="bg-black h-screen">
+                <Hero />
+                <Body />
+            </div>
         </>
     )
 }

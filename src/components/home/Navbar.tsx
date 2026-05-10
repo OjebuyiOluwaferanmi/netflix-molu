@@ -3,7 +3,7 @@ import netflixLogo from '../../assets/netflix.svg';
 
 export default function Navbar() {
     return (
-        <nav className="absolute top-0 left-0 right-0 z-20 px-6 sm:px-6 md:px-12 lg:px-44 py-8 flex justify-between items-center font-sans">
+        <nav className="absolute top-0 left-0 right-0 z-20 px-6 sm:px-6 md:px-12 lg:px-24 xl:px-44 py-8 flex justify-between items-center font-sans">
             <div className="flex items-center">
                 <img 
                     src={netflixLogo} 
